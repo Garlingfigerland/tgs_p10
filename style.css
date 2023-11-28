@@ -5,6 +5,9 @@ background-color: darkcyan;
 h1{
 	text-align:center;
 }
+p{
+	padding: 15px 15px 15px 15px;
+}
 .header {
 background-color: #f1f1f1;
 padding: 20px;
